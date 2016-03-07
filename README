@@ -1,0 +1,12 @@
+A project inspired by jq
+
+Did it to study basic lexical analysis, a springboard to using the proper lexer
+tools out there, yet somehow not a single lexeme was used in this program. Har.
+
+If I come back to this program I'd like to add programmable filters.
+
+Tags should keep track of their parents in order to append missing content
+(especially from void elements)
+
+In the far future I could consider making a proper DOM extractor of my own.
+
